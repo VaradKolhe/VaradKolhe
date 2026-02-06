@@ -2,10 +2,6 @@
 
 ### A passionate Java developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VaradKolhe&label=Profile views&color=0e75b6&style=flat" alt="VaradKolhe" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VaradKolhe" alt="VaradKolhe" /></a> </p>
-
 - 🔭 I'm currently working on **AIML Project, Based on MERN stack for backend and python for AIML.**
 
 - 🌱 I'm currently learning **DevOps in AWS, MERN stack**
@@ -16,7 +12,7 @@
 
 - ⚡ Fun fact **I am Introverted, but who like to talk.**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/13abKDYBuinyJzGhCf33XAc393z-Y5p2_/view?usp=sharing](https://drive.google.com/file/d/13abKDYBuinyJzGhCf33XAc393z-Y5p2_/view?usp=sharing)**
+- 📄 Know about my experiences **[Resume Link](https://drive.google.com/file/d/13abKDYBuinyJzGhCf33XAc393z-Y5p2_/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
