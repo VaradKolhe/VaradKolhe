@@ -18,7 +18,6 @@
 <p align="left">
 <a href="https://github.com/VaradKolhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="VaradKolhe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/varad-kolhe-8a7a70306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varad-kolhe-8a7a70306" height="30" width="40" /></a>
-<a href="[https://codechef.com/users/varadkolhe](https://www.codechef.com/users/varadkolhe)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="varadkolhe" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/VaradKolhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="VaradKolhe" height="30" width="40" /></a>
 <a href="https://leetcode.com/varadkolhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varadkolhe" height="30" width="40" /></a>
 </p>
