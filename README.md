@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **varadkolhe36@gmail.com**
 
-- ⚡ Fun fact **I am Introverted, but who like to talk.**
+- ⚡ Fun fact **I am Introvert, who likes to talk.**
 
 - 📄 Know about my experiences **[Resume Link](https://drive.google.com/file/d/13abKDYBuinyJzGhCf33XAc393z-Y5p2_/view?usp=sharing)**
 
